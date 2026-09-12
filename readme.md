@@ -79,6 +79,7 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Documentation & Guides:**
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Unofficial Amp CLI Documentation](https://github.com/lfglabs-dev/awesome-amp-code/blob/main/docs/amp_cli_docs.md) - Comprehensive documentation for Amp CLI with examples and best practices.
 - [File-Based Amp Prompting Workflows](https://github.com/PriNova/amp-prompting-workflows) - Collection of file-based sub-agent orchestration workflows for Amp.
 
